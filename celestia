@@ -42,7 +42,7 @@ git clone https://github.com/celestiaorg/networks.git
 CELESTIA_NODENAME="MY_NODE" 
 CELESTIA_WALLET="MY_WALLET"
 CELESTIA_CHAIN="mamaki"
-اطلاعات  داخل  و اطلاعات خودتال :
+اطلاعات  داخل  و اطلاعا:
 
 CELESTIA_NODENAME="amir" 
 CELESTIA_WALLET="amir8372"
